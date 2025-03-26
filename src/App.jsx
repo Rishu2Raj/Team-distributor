@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
 const allPlayers = {
-  alpha: ["Rishu", "Piyush", "Raushan", "Bishu", "Ayush", "Nitish", "Bholu"],
-  bravo: ["Rahul", "Vicky", "Butta", "Abhishek"],
+  alpha: ["Rishu", "Piyush", "Raushan", "Bishu", "Ayush", "Nitish", "Bholu", "Vicky"],
+  bravo: ["Rahul", "Butta", "Abhishek"],
   charlie: ["Golu", "Lotta", "Manish", "Anshu", "Vikram", "Neta", "Heera"],
   special: ["Amit", "Sushil"],
 };
