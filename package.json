@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Rishu2Raj.github.io/Team-distributor",
+  "homepage": "https://rishu2raj.github.io/Team-distributor/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
